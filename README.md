@@ -1,3 +1,3 @@
 # Snake-Game
-Made this popular Snake Game using Python Programming Language.
+- Made this popular Snake Game by using Python Programming Language.
 
